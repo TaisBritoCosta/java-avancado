@@ -10,7 +10,6 @@ public class AprendendoSpringBootApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AprendendoSpringBootApplication.class, args);
 
-
 	}
 
 }
